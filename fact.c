@@ -11,6 +11,7 @@ main()
   }
   printf("\n fact=%d",fact);
   add();
+  printf("welcome");
 }
 void add()
 {
