@@ -8,4 +8,5 @@ main()
 	scanf("%d",&b);
 	c=a+b;
 	printf("\n add of 2 nos=%d",c);
+	printf("welcome");
 }
